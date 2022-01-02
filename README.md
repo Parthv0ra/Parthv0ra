@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Vora</h1>
 <h3 align="center">A passionate Learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthv0ra&label=Profile%20views&color=0e75b6&style=flat" alt="parthv0ra" /> </p>
-
-<p align="left"> <a href="https://twitter.com/parth_4_real" target="blank"><img src="https://img.shields.io/twitter/follow/parth_4_real?logo=twitter&style=for-the-badge" alt="parth_4_real" /></a> </p>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-vora-/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_vora_parth_/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voraparth.me@gmail.com)
 
 - 🌱 I’m currently learning **Data Science And DSA**
 
