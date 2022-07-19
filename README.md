@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://parthv0ra.github.io/Portfolio/](https://parthv0ra.github.io/Portfolio/)
 
-- 💬 Ask me about **CSS,HTML,PYTHON**
+- 💬 Ask me about **CSS,HTML,PYTHON,JAVA**
 
 - 📫 How to reach me **voraparth.me@gmail.com**
 
