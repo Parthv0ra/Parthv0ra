@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Science And DSA**
 
-- 👨‍💻 All of my projects are available at [https://parthv0ra.github.io/Portfolio/](https://parthv0ra.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://parthv0ra.github.io/Portfolio/](https://parthv0ra.github.io/)
 
 - 💬 Ask me about **CSS,HTML,PYTHON,JAVA**
 
 - 📫 How to reach me **voraparth.me@gmail.com**
 
-- 📄 Know about my experiences [https://parthv0ra.github.io/Portfolio/](https://parthv0ra.github.io/Portfolio/)
+- 📄 Know about my experiences [https://parthv0ra.github.io/Portfolio/](https://parthv0ra.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
